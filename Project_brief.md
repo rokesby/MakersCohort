@@ -4,8 +4,8 @@
 	- Consolidate skills gained in the Bootcamp and ideally build upon existing interests in the fields of data analysis, data reporting, real world datasets etc.
 - ## Audience
 	- Makers Coaches
-	- Potential future employers to showcase our skills
+	- Potential future employers to showcase our skills.
 - ## Goals
-	- Basic working prototype utilising a range of technologies
+	- Basic working prototype utilising a range of technologies.
 - ## Timelines
-	- 7 person days per team member (4 or 5) nearing the end of the course
+	- 7 person days per team member (4 or 5) nearing the end of the course.
